@@ -22,4 +22,4 @@ Para ejecutar el api se realizarán los siguientes pasos:
 - Verificamos que la opción que se utilizara sea POST
 - Damos clic a "Send"
 - Debe salir un mensaje que dice "salió bien" lo cual nos notifica que el proceso fue exitoso
-- Donde se aloje la API se creó un archivo JSON con el resultado correspondiente
+- Donde se aloje la API se creó un archivo JSON "myfile.json" con el resultado correspondiente
