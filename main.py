@@ -43,6 +43,7 @@ def user_action():
 
             else:
                 None
+                
         #Diccionario temporal que se añadira al disccionario final y se resetea con la repeticion
         ultimodic = {
             "óracion" : m,
